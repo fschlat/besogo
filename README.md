@@ -261,3 +261,11 @@ Copyright (C) 2013 Joonas Pihlajamaa <github@joonaspihlajamaa.com>
 
 The following images are courtesy of tozgrec (OGS user).
 -  `img/wood.jpg` and `img/wood-light.jpg`
+
+
+
+--- EDIT section FXS ---
+
+SGF_viewer_google_sites.html file has been added which can be integrated to google sites
+
+------------------------
