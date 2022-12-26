@@ -91,7 +91,7 @@ id = gives a name to a specific stylesheet
 <h2>Embedded Editor</h2>
 <h4>full-width, automatic orientation, all editor panels shown, realistic stones, mousewheel navigation off</h4>
 -->
-<div class="besogo-editor" nowheel="True" sgf="https://raw.githubusercontent.com/fschlat/besogo/gh-pages/sgf/file_name.sgf"></div>
+<div class="besogo-editor" nowheel="True" sgf="https://raw.githubusercontent.com/fschlat/besogo/gh-pages/sgf/22_South_Africa_commented.sgf"></div>
 
 
 </div>
