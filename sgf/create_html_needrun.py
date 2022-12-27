@@ -35,10 +35,10 @@ for i, step in enumerate(game):
     # Create the content for the HTML file by replacing the placeholder in the template
     html = template_html.replace("file_name",step)
 
-    print(html)
+    filepath = '/generated_html/'+step+'.html'
 
     # Save the HTML content to a new file in the specified directory
-    with open(step, "w") as f:
+    with open(os.getcwd()+filepath, "w") as f:
         f.write(html)
     
 
